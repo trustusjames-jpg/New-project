@@ -11,6 +11,7 @@
   "defaultScriptType":0,
   "Folders":[
     {"$GMFolder":"","folderPath":"folders/Scripts.yy","name":"Scripts","order":0,"resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","folderPath":"folders/Objects.yy","name":"Objects","order":1,"resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
@@ -25,6 +26,8 @@
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"scr_items_load","path":"scripts/scr_items_load/scr_items_load.yy",},},
+    {"id":{"name":"scr_player_macros","path":"scripts/scr_player_macros/scr_player_macros.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
