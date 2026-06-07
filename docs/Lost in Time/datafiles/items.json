@@ -1,0 +1,41 @@
+{
+  "items": {
+
+    "item_scrap_steel": {
+      "id": "item_scrap_steel",
+      "name": "Scrap Steel",
+      "description": "Warped strips of pre-collapse structural steel. The backbone of every forge-yard in Berkshire.",
+      "craft_class": "scrap_smithing",
+      "category": "material",
+      "stack_max": 99,
+      "weight": 1.5,
+      "base_value": 4,
+      "tags": ["metal", "smithing_component", "common"]
+    },
+
+    "item_salvaged_spring": {
+      "id": "item_salvaged_spring",
+      "name": "Salvaged Spring",
+      "description": "A coiled steel spring yanked from old machinery. Still holds tension. Useful for mechanisms and traps.",
+      "craft_class": "scrap_smithing",
+      "category": "material",
+      "stack_max": 50,
+      "weight": 0.6,
+      "base_value": 14,
+      "tags": ["metal", "mechanical", "smithing_component", "uncommon"]
+    },
+
+    "item_blight_moss": {
+      "id": "item_blight_moss",
+      "name": "Blight Moss",
+      "description": "Fluorescent green moss that colonises irradiated ground. Mildly toxic raw, but a key reagent in field-grade salves.",
+      "craft_class": "flora_harvesting",
+      "category": "material",
+      "stack_max": 30,
+      "weight": 0.1,
+      "base_value": 20,
+      "tags": ["plant", "toxic", "medicinal", "harvesting_component", "uncommon"]
+    }
+
+  }
+}

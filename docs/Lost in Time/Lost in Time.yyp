@@ -9,9 +9,13 @@
     "name":"Default",
   },
   "defaultScriptType":0,
-  "Folders":[],
+  "Folders":[
+    {"$GMFolder":"","folderPath":"folders/Scripts.yy","name":"Scripts","order":0,"resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","CopyToMask":-1,"filePath":"datafiles","name":"items.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -20,6 +24,7 @@
   "name":"Lost in Time",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"scr_items_load","path":"scripts/scr_items_load/scr_items_load.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
